@@ -1,0 +1,19 @@
+{
+    "alerts": [
+        {
+            "id": 1,
+            "message": "Vehicle approaching",
+            "priority": "high"
+        },
+        {
+            "id": 2,
+            "message": "Low battery",
+            "priority": "medium"
+        },
+        {
+            "id": 3,
+            "message": "Fog detected",
+            "priority": "low"
+        }
+    ]
+}

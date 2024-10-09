@@ -1,0 +1,14 @@
+{
+    "battery_thresholds": {
+        "low": 20,
+        "critical": 10
+    },
+    "heater_settings": {
+        "max_temperature": 60,
+        "min_temperature": 20
+    },
+    "ventilation_settings": {
+        "airflow_level": 5,
+        "auto_adjust": true
+    }
+}
